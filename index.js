@@ -13,3 +13,4 @@ function SumaNumeros(x,y)
 console.log(MiPrimerMetodo());
 console.log(constante1);
 console.log(SumaNumeros(4,2));
+console.log("Jose Puto");
