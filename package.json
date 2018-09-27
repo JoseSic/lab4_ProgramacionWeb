@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoseSic/lab4_ProgramacionWeb/issues"
   },
-  "homepage": "https://github.com/JoseSic/lab4_ProgramacionWeb#readme"
+  "homepage": "https://github.com/JoseSic/lab4_ProgramacionWeb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
